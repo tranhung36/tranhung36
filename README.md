@@ -1,5 +1,5 @@
 👋 Hi there
-- 🌱 I’m currently learning Python, PHP
+- 🌱 I’m currently learning Python, PHP, Laravel
 
 <!---
 tranhung36/tranhung36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
